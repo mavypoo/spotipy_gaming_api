@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+}
+
+.Epic {
+    color: purple;
+    font-weight: bold; 
+}
+
+.Rare{
+    color: aqua;
+    font-weight: bold;
+}
